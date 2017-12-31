@@ -1,2 +1,3 @@
 # hello-world
 A start
+I'm have been in laboratory operations for 12 years and have taken an interest in coding recently. When I was younger, I played around with HTML primarily as a means to make creative websites on social media outlets. I have never really dived deep into coding. I see some useful ways that I can incorporate coding in my career at this point. I'm hoping to use coding to help me in my current career, but ultimately, I'm hoping to switch careers as I have realized how satisfying coding can be. I know that it will be a rough journey. There seems to be a lot out there in the world of coding, but I'm excited.
